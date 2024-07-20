@@ -38,7 +38,7 @@
 #include <mach/mach_exc_server.h>
 #include <mach/mach_host.h>
 #include <mach/mach_port.h>
-#include <mach/notify_server.h>
+//#include <mach/notify_server.h>
 #include <mach/processor.h>
 #include <mach/processor_set.h>
 #include <mach/semaphore.h>
